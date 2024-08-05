@@ -1,1 +1,1 @@
-rootProject.name = "com.fst.engineering.unscramble_game_api"
+rootProject.name = "unscramble_game_api"
