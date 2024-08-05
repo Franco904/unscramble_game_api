@@ -22,7 +22,6 @@ dependencies {
     // Core
     implementation(libs.ktor.server.core)
     implementation(libs.ktor.server.config.yaml)
-    implementation(libs.ktor.server.host.common)
     implementation(libs.ktor.server.netty)
 
     // Kotlin-Json Serialization/deserialization
